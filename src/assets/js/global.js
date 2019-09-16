@@ -1,0 +1,3 @@
+module.exports = {
+  isApp: true
+}
