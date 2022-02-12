@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "ajv": "^5.0.0",
+    "ajv": "^6.12.3",
     "animate.css": "^3.7.0",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
